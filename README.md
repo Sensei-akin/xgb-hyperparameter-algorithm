@@ -1,1 +1,1 @@
-# xgb-hyperparameter-algoritm
+# xgb-hyperparameter-algorithm
